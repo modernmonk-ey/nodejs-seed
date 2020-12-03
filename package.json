@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-seed",
+  "version": "0.0.1",
+  "description": "Seed project to get started quickly ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modernmonk-ey/nodejs-seed.git"
+  },
+  "keywords": [
+    "nodejs",
+    "seed",
+    "express",
+    "graphql",
+    "grpc"
+  ],
+  "author": "Modern Monk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modernmonk-ey/nodejs-seed/issues"
+  },
+  "homepage": "https://github.com/modernmonk-ey/nodejs-seed#readme"
+}
